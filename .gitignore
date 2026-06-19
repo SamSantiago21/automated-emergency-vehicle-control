@@ -1,0 +1,13 @@
+build/
+*.o
+*.a
+*.elf
+*.hex
+*.lst
+*.map
+.sconsign.dblite
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
